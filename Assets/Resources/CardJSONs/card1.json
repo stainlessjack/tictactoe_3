@@ -1,0 +1,15 @@
+{
+    "cardID": "1",
+    "cardType": "EVENT",
+    "cardName": "Slow Day",
+    "cardFlavor": "The city is quiet today. The streets are empty, the shops are closed, and the factories are silent.",
+    "eventType": "DAY",
+    "tags": [
+        "DOSKVOL",
+        "CITY"
+    ],
+    "behaviors": [],
+    "resonanceSymbol": "SHATTERED",
+    "requirements": [],
+    "coinCost": ""
+}

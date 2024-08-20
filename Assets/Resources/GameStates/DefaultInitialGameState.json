@@ -1,0 +1,150 @@
+{
+    "gameId": "0",
+    "players": [
+        {
+            "id": "1",
+            "type": "PLAYER",
+            "playerId": "1",
+            "playerName": "Alak",
+            "playerPicture": "",
+            "playerReputation": "0"
+
+        },
+        {
+            "id": "2",
+            "type": "PLAYER",
+            "playerId": "2",
+            "playerName": "Zuzzo",
+            "playerPicture": "",
+            "playerReputation": "0"
+        }
+    ],
+    "areas": [
+        {
+            "id": "3",
+            "type": "AREA",
+            "subType": "CALENDAR",
+            "areaName": "CalendarBoard",
+            "ownerId": "GAME",
+            "dayDeck": {
+                "zoneType": "DECK",
+                "zoneName": "DayDeck",
+                "cards": [
+                    {
+                        "cardID": "1",
+                        "cardType": "EVENT",
+                        "cardName": "Market Day",
+                        "cardPicture": "A bustling market in Doskvol just opening for business.",
+                        "eventType": "DAY",
+                        "tags": [
+                            "MARKET",
+                            "BUSINESS"
+                        ],
+                        "abilities": [
+                            {
+                                "abilityType": "COST_MODIFIER",
+                                "abilityTarget": "opportunityDeck",
+                                "abilityValue": "-2"
+                            }
+                        ],
+                        "requirements": [],
+                        "coinCost": ""
+                    }
+                ]
+            },
+            "dayPile": {
+                "zoneType": "DISCARD",
+                "zoneName": "DayDiscard",
+                "cards": []
+            },
+            "crematorium": {
+                "zoneType": "DISCARD",
+                "zoneName": "Crematorium",
+                "cards": []
+            }
+        },
+        {
+            "id": "4",
+            "type": "AREA",
+            "subType": "DISTRICT",
+            "areaName": "InstitutionBoard",
+            "ownerId": "GAME",
+            "identityZone": {
+                "cardID": "1",
+                "cardType": "EVENT",
+                "cardName": "Market Day",
+                "cardPicture": "A bustling market in Doskvol just opening for business.",
+                "eventType": "DAY",
+                "tags": [
+                    "MARKET",
+                    "BUSINESS"
+                ],
+                "abilities": [
+                    {
+                        "abilityType": "COST_MODIFIER",
+                        "abilityTarget": "opportunityDeck",
+                        "abilityValue": "-2"
+                    }
+                ],
+                "requirements": [],
+                "coinCost": ""
+            },
+            "locationZone": {},
+            "characterZone": {},
+            "obstacleZone": {},
+            "statusZone": {},
+            "progressClockZone": {},
+            "obstacleDeck": [],
+            "opportunityDeck": [],
+            "assetDeck": []
+        },
+        {
+            "id": "5",
+            "type": "AREA",
+            "subType": "DISTRICT",
+            "areaName": "LaborAndTradeBoard",
+            "ownerId": "GAME",
+            "identityZone": {},
+            "locationZone": {},
+            "characterZone": {},
+            "obstacleZone": {},
+            "statusZone": {},
+            "progressClockZone": {},
+            "obstacleDeck": [],
+            "opportunityDeck": [],
+            "assetDeck": []
+        },
+        {
+            "id": "6",
+            "type": "AREA",
+            "subType": "DISTRICT",
+            "areaName": "UnderworldBoard",
+            "ownerId": "GAME",
+            "identityZone": [],
+            "locationZone": {},
+            "characterZone": {},
+            "obstacleZone": {},
+            "statusZone": {},
+            "progressClockZone": {},
+            "obstacleDeck": [],
+            "opportunityDeck": [],
+            "assetDeck": []
+        },
+        {
+            "id": "7",
+            "type": "AREA",
+            "subType": "DISTRICT",
+            "areaName": "TheFringeBoard",
+            "ownerId": "GAME",
+            "identityZone": {},
+            "locationZone": {},
+            "characterZone": {},
+            "obstacleZone": {},
+            "statusZone": {},
+            "progressClockZone": {},
+            "obstacleDeck": [],
+            "opportunityDeck": [],
+            "assetDeck": []
+        }
+    ]
+}

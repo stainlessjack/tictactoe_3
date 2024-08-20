@@ -1,0 +1,1747 @@
+{
+    "gameVersion": "0.0.8",
+    "gameConnectURL": "http://144.202.111.41:8000",
+    "gameDownloadURL": "http://144.202.111.41:8080/active",
+    "gameFiles": [
+        {
+            "gameFileName": "/Editor.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "0542463dffdd99c37a7b393a1356a1302ffe60e6a620ff03e10b2f8dc74aaa23"
+        },
+        {
+            "gameFileName": "/Resources.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "32a87f549d83bd158c2149018827213219799dd86d3e853eef623bc6f44c2df7"
+        },
+        {
+            "gameFileName": "/Scenes.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "0f26c378d94a381e8a6dfdaa2ffb96c6c236329eba2ba53ca88e88f9237631c9"
+        },
+        {
+            "gameFileName": "/Scripts.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "1af2c178f189170b8135f73b24c75306f16fed624908c0290e0ad1d21bda17fa"
+        },
+        {
+            "gameFileName": "/TextMesh Pro.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "8529d84d190a68aeb1a16e0a90308081bd30a738dbcc63c63b2a93c53b9a11b3"
+        },
+        {
+            "gameFileName": "/Editor/GameBuilder.cs",
+            "gameFileSize": "3808",
+            "gameFileSHA256": "84bcbe57a930c275bc7a0101776bd5f7a671c9b595f865796b3b684990901f84"
+        },
+        {
+            "gameFileName": "/Editor/GameBuilder.cs.meta",
+            "gameFileSize": "295",
+            "gameFileSHA256": "efcc3571fe515d1a8f5e41de55988e452c6461fccca2a41c3121977a86a6e3a3"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "32027cfa9ec689acce7840725ef4575c40f19ffdcb721fb43554f433fabd552a"
+        },
+        {
+            "gameFileName": "/Scenes/Scene0.unity",
+            "gameFileSize": "28407",
+            "gameFileSHA256": "7ef7f2c147b4220e8a8c5c8ad1f81904d8eab7a6d7c2b9ea74dbd8e5c47bffd6"
+        },
+        {
+            "gameFileName": "/Scenes/Scene0.unity.meta",
+            "gameFileSize": "155",
+            "gameFileSHA256": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96"
+        },
+        {
+            "gameFileName": "/Scenes/Scene1.unity",
+            "gameFileSize": "8029",
+            "gameFileSHA256": "c1e0f9aa8a4dc9421d99a917afc2930b7713cf2ed9a5629ffaa22255f5db1499"
+        },
+        {
+            "gameFileName": "/Scenes/Scene1.unity.meta",
+            "gameFileSize": "155",
+            "gameFileSHA256": "c55534d82b06422bb798d840fa900468de9133ba1176a70c191258f0f42bf2da"
+        },
+        {
+            "gameFileName": "/Scripts/GameManifest.cs",
+            "gameFileSize": "413",
+            "gameFileSHA256": "2a9fa625f679840bc88ad806e18a037ebd787ec3a2d494956a738d27144fa665"
+        },
+        {
+            "gameFileName": "/Scripts/GameManifest.cs.meta",
+            "gameFileSize": "295",
+            "gameFileSHA256": "b00a69949d5b6eb20d4b8302ca47b2177a381427658c16084393613cf97c85a0"
+        },
+        {
+            "gameFileName": "/Scripts/NetworkClient.cs",
+            "gameFileSize": "370",
+            "gameFileSHA256": "b6a3bb6fc3be37f58dad02bbe3bb590e01e0cd681c20531ce40857e1762645f6"
+        },
+        {
+            "gameFileName": "/Scripts/NetworkClient.cs.meta",
+            "gameFileSize": "243",
+            "gameFileSHA256": "1db176dff4005368cb951de2d992724db9587bac98d7a4dc523591356d263f5c"
+        },
+        {
+            "gameFileName": "/Scripts/Scene0Manager.cs",
+            "gameFileSize": "11187",
+            "gameFileSHA256": "22f3e3d7175b2e7ac280e24bccb9d63c81de155369b7aab3c36ee3e3bcb9d5c4"
+        },
+        {
+            "gameFileName": "/Scripts/Scene0Manager.cs.meta",
+            "gameFileSize": "243",
+            "gameFileSHA256": "70d5c86c5bfa418d25d6dcadc82595906c6efa50df0bb33d41a64ab607fdb755"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Documentation.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "07a8d45855ad4e331c57cd451654a5a454b001ef9677b725b856810b7d58b77b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "b660b2e4da9688bfe55c6455d3ebdfae911a3e52edcf5306071a7a9cb06aa3c8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Fonts.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "11e80153fa39b86efadb8917ecde12a0402fe0729f2c88f6f8d1999f3fb04748"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "167448559db07c9857b206a0f5a0aedcd6a6dad900d618b35b0702d636573805"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "c109eb7e331affedb377f7051df3d4881f8529b65f9593234585713e6e94ed30"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "41e002b97ba2235689fba502d1ee4419f50ea0095cd3632cdc50bc90ca8a94de"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/kingdom-death-wallpaper-1-2880x1600.jpg",
+            "gameFileSize": "1626210",
+            "gameFileSHA256": "9c44cae715d1621c25fa64ebaa48d865d51403dee3dfe221ef0e8d0408fcd94b"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/kingdom-death-wallpaper-1-2880x1600.jpg.meta",
+            "gameFileSize": "4206",
+            "gameFileSHA256": "ccdbe0916edc05f96160306501e0b509adcd539d913696b4b6708c1eba438c6c"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/kingdom_death_white_speaker_54mm_by_lokmanlam_d5loeh7.jpg",
+            "gameFileSize": "466669",
+            "gameFileSHA256": "01a2f59b6ee4dcd1e0da06681e2f73bc3a013f4f5230094a0098b688c4574d06"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/kingdom_death_white_speaker_54mm_by_lokmanlam_d5loeh7.jpg.meta",
+            "gameFileSize": "4206",
+            "gameFileSHA256": "f04cd4961b8246f8c09e1dab6b277f029aa9b95391d4c4b1a1c9a64d6935ee45"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/vignette.png",
+            "gameFileSize": "73615",
+            "gameFileSHA256": "da73ce0f7396c556e48a4e4fe3d780b0fa4c6f6248c269e420105cdcab48d773"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/vignette.png.meta",
+            "gameFileSize": "4198",
+            "gameFileSHA256": "fcdce922ba985f4d665a92165f6755e1080f79ce6eb14b2a2bb20f952fb0fef1"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/white_speaker___blood_story_by_lokmanlam_d5yjwej.jpg",
+            "gameFileSize": "659712",
+            "gameFileSHA256": "3e5ad572f3b3aadc4a50844231c4c0cc4d558f66e25a2333b08e22424dafcfa0"
+        },
+        {
+            "gameFileName": "/Resources/BackgroundImages/white_speaker___blood_story_by_lokmanlam_d5yjwej.jpg.meta",
+            "gameFileSize": "4206",
+            "gameFileSHA256": "0f556283cdd38b6365b6a17688c04c381b251fa0da036a69ccd5550305710e7f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf",
+            "gameFileSize": "694398",
+            "gameFileSHA256": "93d6d3ca8a7d8423b01faacd00fa3921fe055fb2187873653a925e4cc1af85c0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta",
+            "gameFileSize": "155",
+            "gameFileSHA256": "942ef57b7129d587bdee03541cc260cf55af7564d9d2d582ea11eacd3de278ca"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "7465b3c8148c6da331f7b809b8a451b4e393490c711f9562159b324253ed3780"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "06c890adf936365d71fd0b415d0ecdb421d0b86f1050f9e5ec46e167550eb988"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "71f2d1caa7a15f48f2667bcf7247f80d9b8b77e268d73194f531bdfc142d6946"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "216e16dbda0f1c52b4f570b9a3b7662b3af643f4896c9cf79b8ba2f685149928"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "0d31f4602648ffe7aeabe7388235fd0f1ad01f30dae35d8421929d02235b7587"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "8f5e4474ea44651852c1d63ba0d678d8e86ccdfafb99045b63d6469850be4505"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Sprites.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "12dac607ac5b4d150dbd7054b5c584fe76c256e9bd6b8b20dd1a9259118e3f9c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "bff86b21b02132e38e58f03e107f74095216d9bc5fbb4a05c25c5b87165c477c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Fonts/LiberationSans - OFL.txt",
+            "gameFileSize": "4469",
+            "gameFileSHA256": "37f8552e9a874ec10710dc0ede6a9adf168e6609fbd02a507f35629373b85a48"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta",
+            "gameFileSize": "177",
+            "gameFileSHA256": "5dbec32c014c17d94674af5f1494d49b42ba00edd50397f895f088c868ccbf86"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Fonts/LiberationSans.ttf",
+            "gameFileSize": "350200",
+            "gameFileSHA256": "e5b0af421ea2bfbc1ac8d251d647268087ae82786234c57f757d1f0b90fa8b49"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Fonts/LiberationSans.ttf.meta",
+            "gameFileSize": "414",
+            "gameFileSHA256": "e2e35a015703584fb119355fa02631764d111c3e112d32519801d46bd697b596"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "8917470a9265beb1ef55a28c6a3718eb12ec8004554499998cc345056247995f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/LineBreaking Following Characters.txt",
+            "gameFileSize": "269",
+            "gameFileSHA256": "3a73e5ffe2510756dd3c2e982fdc1218b4be82c6e21abde88070d6860e1bc8e6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "d5a86d8b7db6aa3ca6f4a63750eb94e0c42a64909b47d8c6c6f2565845534490"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/LineBreaking Leading Characters.txt",
+            "gameFileSize": "95",
+            "gameFileSHA256": "62d3f4d5f64aaf885692d2d13a8313f6918e6e4c5aeb3990a43f614652bfd89c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "6a925814d5e251a0ced6de210db2bacf2de29b4f0dc2991e85c908632e9565e4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Sprite Assets.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "5605affac803b81f876f35577f075c9b7e5ea73cf812fdfcc74277bf0f40140e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Style Sheets.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "1fdf0423552f46284fb97894f36adcd34d32e595aaf5c7cf1ce38a2349faaf89"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/TMP Settings.asset",
+            "gameFileSize": "1683",
+            "gameFileSHA256": "a699a043195b71622df343e8c353312cdfdc49c4b8c7043eb14584c34451991c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/TMP Settings.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "a65193b095ec3606789a3191751a837704cf52d4f461993ae7903024c6d43f45"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+            "gameFileSize": "3497",
+            "gameFileSHA256": "f45e54dd8d92ae0702621bfc3aaaedac7f9c2509dcb84f721c11aa257171d523"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "91be1d5618a7da33c878e20cf2be3e13b897d4976c70bde0cda7a67dbd502cd2"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader",
+            "gameFileSize": "3549",
+            "gameFileSHA256": "86216818723945b88960d3958e744cf7a2433eb306f4f6bfba84f1f09320a25e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "7430f3e97ae1b46f34e1ca75508705bb7b944307c41dc568ea728011f327086d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+            "gameFileSize": "3499",
+            "gameFileSHA256": "05b182e4a8eefe246a83b8065a38f47524e9492128ea0c5a0f1bafc28cc59974"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "3d462e6f8ba57f45dc5e6000020db066c36ed5a1a24f74f749727812373c2325"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+            "gameFileSize": "10585",
+            "gameFileSHA256": "5d014fd30168464ef417514fdc25d19b15ce5705dc352bc7f9703c95008f6dd0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "fb8fc84b612e19c169cdf3596195b416e68d227a8987a0eaa90d8c137fb69797"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF SSD.shader",
+            "gameFileSize": "12000",
+            "gameFileSHA256": "699f0e1291b37a9103fcf5059f44eca257cc63f02728939046311b431e804039"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "bea74d576f181a8bb04b8cf02eedd0136540325ecb2824928a3aa52c75adcb13"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader",
+            "gameFileSize": "7822",
+            "gameFileSHA256": "c11c36263a42ec618251c21d1f9b5f2e9df5f0f21f10f82ab6b4388913f7aed7"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "3744d078f9a8b6d3c5d9bca51e43f9223544fcafaf9396e121f49ea84a0609d3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+            "gameFileSize": "7643",
+            "gameFileSHA256": "b2f29604a41934625338b7d1e6bd37fe008366f98932ac49f026dec16fd465d0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "1eeca1536c7506f79d4d877b866a5fb88db8f402634e091b6d78aa9d21c9d18b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader",
+            "gameFileSize": "3071",
+            "gameFileSHA256": "598b92ea8c4d65802c9273bec594786b8ca896013afaf8f31e2c973518f293b1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "e3412891b9306b017e60cba4ae4f6d258ee8b161d986dcde9cefb3d60345514d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+            "gameFileSize": "7674",
+            "gameFileSHA256": "970db4b1e73b8289c1dd56cff60877f426b49c9682620b2d14da6cd70b64cb9c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "f2112f50c72762d4e6731391495ea11f76975d677b698e9bcfdd38275ea18f9d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader",
+            "gameFileSize": "3524",
+            "gameFileSHA256": "79b6e02dbdf65168f2bd81e1a41966ab492bf473be8ba7abd659ab8876c781b1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "95aa060f371ee503a22c0a0b018e029c0328bd82b9317feaa784432b0a787343"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Surface.shader",
+            "gameFileSize": "4355",
+            "gameFileSHA256": "a1ec7f5beb83b6c2f00570246f542cc3c9d12516e69b4a2c39d58675b5b76d15"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "42439f5ac7491998f562e8ede73d64c3512953eb99fb1b49e833f5d9999a7660"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF.shader",
+            "gameFileSize": "10600",
+            "gameFileSHA256": "bbae422625f31bfa560ac5ce44c402fafd16dba55d496c6279ca985b652b58bf"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_SDF.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "0897fb06d170043fffa2d28783b347bbaee87a3f09f08374ca44b2c3848697d6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Sprite.shader",
+            "gameFileSize": "2673",
+            "gameFileSHA256": "c5d35f56a73324cf1639a4b9b0650a7412230bacaa9b0fdd4ee34f437a9b3f31"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMP_Sprite.shader.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "9609584c5249687f3765f0018a93dfd6445c7e35d5aee4e87556f111c8852819"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro.cginc",
+            "gameFileSize": "2277",
+            "gameFileSHA256": "14edb7d7b88caf2b82cae68200abe895e5b5b3474c3fffbf0e9b4b09a4e2467e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro.cginc.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "277459ef190430ad8e4ceb2bb38a8895d11fbbe6c2b2672e818ff970cb59efed"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro_Mobile.cginc",
+            "gameFileSize": "5311",
+            "gameFileSHA256": "31aa22debdf974d1dc73e90b7feadf7f2e37ad60cf6f9f9e54a6adc71cd792b5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "2e16fa15ef884a60a402d8b696f8b09e5315cbb468ba223d256030c7fe2b0667"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro_Properties.cginc",
+            "gameFileSize": "2843",
+            "gameFileSHA256": "26c70831a9bdd6a56a37ec1e2358929453d66a064d10a61da49a1d4b05280e06"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "edace33591894d86d9a4144466fb3606e538d3341030fe22f908551755120ea5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro_Surface.cginc",
+            "gameFileSize": "3563",
+            "gameFileSHA256": "434adb97dfcd9d5772fc11bb3a76f36af13614a664aca840ebcbf635e6e2df24"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta",
+            "gameFileSize": "204",
+            "gameFileSHA256": "247746f3a4e39dd24d1ad99e4fae03ae8976586307948b2846529a876dcb0a63"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites/EmojiOne Attribution.txt",
+            "gameFileSize": "187",
+            "gameFileSHA256": "095907d2631301d08dbff9388fc0c278904fd86e18ba76bb0d401a790ade8f83"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta",
+            "gameFileSize": "158",
+            "gameFileSHA256": "9fffc8ac513116b8ac394d86d81ca9ac4ec52ee92c63c114d355808384ea16fc"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites/EmojiOne.json",
+            "gameFileSize": "4122",
+            "gameFileSHA256": "fa35c4a1b7cfc12e872bcba7d0d20702077a5478472b87d619b2c72bf5bb48d0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites/EmojiOne.json.meta",
+            "gameFileSize": "177",
+            "gameFileSHA256": "ac2c551b5bc7f7d636d54ded634dfc3493e249567283b2efc06d1299f9360061"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites/EmojiOne.png",
+            "gameFileSize": "112319",
+            "gameFileSHA256": "a87b965a701de3dc31d7401e542b1fc946587f912c51d7a26e46ade9f098bd1a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Sprites/EmojiOne.png.meta",
+            "gameFileSize": "9784",
+            "gameFileSHA256": "eb63c0321658b980b138ce5f675d44689b8c7144df43976931e132e7706d1e1a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt",
+            "gameFileSize": "4487",
+            "gameFileSHA256": "2d2d50dedc217f2e0ac0ac86fbfdb8924e4a53522753e0f8f16f2a7b8c8e419a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta",
+            "gameFileSize": "177",
+            "gameFileSHA256": "b5a10dbed0d0eeb3a7656c173d866ea1f2b234653dc11a48fbc925598087fcd1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf",
+            "gameFileSize": "42376",
+            "gameFileSHA256": "d86f6a6f364ab85b0ab275f770355d9847bbe5feff040b55bb392e825c50b4bc"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta",
+            "gameFileSize": "414",
+            "gameFileSHA256": "b532d182a0eda3a999ab33e5f40dfb4832f4755d275cbc1161742dc21cbe70da"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt",
+            "gameFileSize": "4491",
+            "gameFileSHA256": "18b29dd9aa5a7bcdf57d57332ba65ef0eb1f90c09dbf348b473b6611bab4d2d1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta",
+            "gameFileSize": "177",
+            "gameFileSHA256": "4574163241b04e6a94a13c92cb786e9b2ff9177e9dea64a3e99c95161fe528ef"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf",
+            "gameFileSize": "39676",
+            "gameFileSHA256": "321ffd247939d12810b05472fb87e2bdac3fb8fcb430d1817b934b3ad55caf40"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta",
+            "gameFileSize": "414",
+            "gameFileSHA256": "2c63489845beb43bfb1c242d3a311ac0a9a0c16d1c1e71741b77940f099db5fe"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF",
+            "gameFileSize": "73060",
+            "gameFileSHA256": "09c9c0e13ed67bf202a61057afb0b6e4feb4241e74561624a2ed6cf03307ec3c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta",
+            "gameFileSize": "524",
+            "gameFileSHA256": "8935522851857fc12b1f49925b475aadcf72e5a16afbadc85372a28008e5dddf"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt",
+            "gameFileSize": "4494",
+            "gameFileSHA256": "36d79daa59517826275adb2e1615e49ac93528851c5516f5e7329bceaf0be792"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta",
+            "gameFileSize": "177",
+            "gameFileSHA256": "d139bd7e51e1a565bc36d5db833768dceb69cd3f44e5cde6f51adc280e55ffc0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf",
+            "gameFileSize": "53056",
+            "gameFileSHA256": "fddd19f5a6d8e9f5ccf42fa3cb4542db815b05ba14c0b1cd00f484e6c1c431a1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta",
+            "gameFileSize": "414",
+            "gameFileSHA256": "3b178c056217261cea5757dcfc6dc538ecf4c6ccb67e48a4aa5f9d85a091476e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf",
+            "gameFileSize": "170760",
+            "gameFileSHA256": "7d0b991ee3e0be7af01ad7ea8cd2beea6c00a25e679a0226b6737f079aafff86"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta",
+            "gameFileSize": "490",
+            "gameFileSHA256": "38aeeacae30a7631034b81001bb7298a3265f8edce94dd4f9cb58afe50354fed"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat",
+            "gameFileSize": "2464",
+            "gameFileSHA256": "ebc8c340585ca7a518aff843b5c5c74d95fa846291de8dce2e8fb556f0983859"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "2041d1ee1609048c3638f1d611d351e06148caa0686e3697a9de883af2188f7b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat",
+            "gameFileSize": "4694",
+            "gameFileSHA256": "fda6bae82624f138c076725f1cce343558e910f5fd4fb8472791292239c6e3ea"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "c1390805b079c9e7f500a9d1e934a5578d51a1b34288058a4dd3e225ffd90e21"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat",
+            "gameFileSize": "3150",
+            "gameFileSHA256": "5a08582af650eede69109141d56131179dc3246dab20ea9cdb475df208333b10"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "2fd4df8d8d8bcc4c20ae6f02fc1028a3fe5e5c6277de856e60fa1d45219ee923"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat",
+            "gameFileSize": "2975",
+            "gameFileSHA256": "512d7928b723d288f69e4cbecfcc5bdbc29503f711536c7772525356fcb1188f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "433f9db6a13fc0347e57574805f53625e7fe627c064ddfecbfb11964d7d264c4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab",
+            "gameFileSize": "7583",
+            "gameFileSHA256": "8e49a094dd05df0060b49a714668957d3e26867498791edd836475b0b1c36d00"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta",
+            "gameFileSize": "181",
+            "gameFileSHA256": "36d62361b7d236711e555a65c5d79787e9ee181ec832688eb710dbeba2edcbd5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab",
+            "gameFileSize": "5797",
+            "gameFileSHA256": "3396857b80ee1a4ac5c55e9ef022b65be8ef737699df19892ebc2d00212799f3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "ab7b74e875d61b2f13cd8e1801fc1fe758fdf66bff8bec77082e869f2031c677"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab",
+            "gameFileSize": "5793",
+            "gameFileSHA256": "46da6ce5f47a4a5ec4f37e27e509179f41d07d484309e4970c82f4191135deaa"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "252a47ff1f2fa60c6d2bfee4a4dba6df2a1cddb99d48b58028533617f04caa47"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta",
+            "gameFileSize": "172",
+            "gameFileSHA256": "9ce552ea61975670ce37af068e256d726ae5bcc94a65eca60dd461f08c9c4b04"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "dcd0b25055cc640c716db88753fd315dea594e6d92a98cd6d99867ef21d7472d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta",
+            "gameFileSize": "191",
+            "gameFileSHA256": "095bc38b6fc21d8dd07bb48a3d56003fb4a15db29700faaf1fe43cb318719429"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity",
+            "gameFileSize": "10375",
+            "gameFileSHA256": "cdb80b42a580232c8d60f04e3c6d2cafbd2d99b57322a8a8b11008a1828d905e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "c5d3d384d38fde30c5b9985f08ec65c87113656e148e03c51083f3d52c4e9b41"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity",
+            "gameFileSize": "10445",
+            "gameFileSHA256": "317ec754c02a4eb508daf5c4a7f2329e18534ad4b9fd71cc8d6a33f468502685"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "db92c746c08f62686e70f44b85c34ea755969070498a7392f190f5352ab65529"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity",
+            "gameFileSize": "24596",
+            "gameFileSHA256": "bd892ffa1a656548b15e5edde17c64c298988dac71336c17c32294554aff9a55"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "9d450bc8bfda37a28730417514414a8e744faec1ba6803dc90256e4dfc6eefe7"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity",
+            "gameFileSize": "10389",
+            "gameFileSHA256": "0a01fb45fe50894c66c63c169b92aae766c4472f64cdae6b3eb986a00e7e25f9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "40518181cfb876cd4c681cb030de7d7119ce3856e7902f51d300ee5649f8f851"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity",
+            "gameFileSize": "28548",
+            "gameFileSHA256": "83da37c6865a7fa31a32c67d73616406768afc72d9aee23b6b2fc6168dbd3887"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "8d72eb635358975ebba1cf0820a1e5f1a75c0f40182803f56410a028d5bcfb5c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity",
+            "gameFileSize": "19196",
+            "gameFileSHA256": "737bfc9df61a0a0b57edcc55aae53778085e99d534886800f5498096c9f88f2a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta",
+            "gameFileSize": "133",
+            "gameFileSHA256": "0954b7a59b9677c05aa7137f992e90581d76ccea3677f1f22f4447443e98845b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity",
+            "gameFileSize": "10533",
+            "gameFileSHA256": "e4ae928851c690246ce2fdd39464869889f6c4228603a68db2af20f21dbd91b5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "34af12f0787c85a2deb836e104e25219b247873ed1df010dac828e06fa58ec43"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity",
+            "gameFileSize": "15890",
+            "gameFileSHA256": "05c6a6b85b52972b39cbb2eeb7aaee4b51793eeb1e627bdaeb5a21e7ca4802d4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta",
+            "gameFileSize": "133",
+            "gameFileSHA256": "5d5c6e67288cf86894444f2877eb42c7db891e29ddcb6430ad825513908a8607"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity",
+            "gameFileSize": "26630",
+            "gameFileSHA256": "ec6ab2d9e38290113e795c1b86735b64fe6d775200a3ef9092e9a745ad6b3bf0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta",
+            "gameFileSize": "176",
+            "gameFileSHA256": "97c701985aa7430bd7a2a6df48c5a3ce9ac82d63679cf2c262158d255c5a4cb6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity",
+            "gameFileSize": "19166",
+            "gameFileSHA256": "d468902d557d03ae822e0b7ff2539b44c1a276c48d487a98163abcf4c5ca88ce"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "54dc9fb39dce9272f37c0d1ed4c7381402d5b0148a44b3fd78b7a056353dc0cf"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity",
+            "gameFileSize": "15327",
+            "gameFileSHA256": "80010ddbda5e6b95f784abf21a58a5e90dfe41b5e525e2ae02c7c9c98cb7f9be"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "14728a276f6d23177630dbf7f6dff6c93e2b8e0a81a2261a5c12cd72bb5cbdbb"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity",
+            "gameFileSize": "22098",
+            "gameFileSHA256": "353d0a20d06514b2a2325e6bb40d41bdf4f67e0702069ba88e88cedf53de969c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta",
+            "gameFileSize": "176",
+            "gameFileSHA256": "3629aa85c40d8f714ee124296d7030fe0fb48ff5590972c27cddc7cca23f63aa"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity",
+            "gameFileSize": "24418",
+            "gameFileSHA256": "2860f48cec243dd323d7608ced821d9f48cfdc3012fbe6df74b4523b3f92829d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "3946c8c5631ff10bf8c8e888b12f785f5ad614b3d39c6ba62e0811ca56e88a55"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity",
+            "gameFileSize": "13939",
+            "gameFileSHA256": "be93ce1673df9882b08c46468079bcf5b1b2701c0f30cee8769117a177f2c4cd"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "2c3c2268402cd021aba01ae4d0646b327bf2e5d0a6e227dbeec874f13099d1e7"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity",
+            "gameFileSize": "14912",
+            "gameFileSHA256": "8893d1091228960c45ecc650a6f1a75a3e691319b3f9052b54126aaf77cd01bc"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "af7ba34acfbe9bf30adf42156b0ea6c237284ebb016088c49cafe32ebbdebfd8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity",
+            "gameFileSize": "16827",
+            "gameFileSHA256": "530947500e5ba5c6d173ee7efcf5c0854d7fa1dda030f7bf21a85b43c182364a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity.meta",
+            "gameFileSize": "133",
+            "gameFileSHA256": "370db9213928264929b4555a0850de1a4a62639bf9b1eda3b74f74cc3881b462"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity",
+            "gameFileSize": "30275",
+            "gameFileSHA256": "4246dd769fe6c6fbc5bef742e8e57e0cc906539867cdfa9ae61706cc65486b31"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "d375b55baa669ecc6796bfb9802e588cae2daf2135a3ac6cc090d90013f21abc"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity",
+            "gameFileSize": "19648",
+            "gameFileSHA256": "ca97ddbaae007aed4a31083590f6a2c4bb758bbc608f0d84409a9149301b7612"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta",
+            "gameFileSize": "176",
+            "gameFileSHA256": "ea65e53cb4e8f997cd2879759bb8a2a350085c088306cdd430f5eb29f92ab4b4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity",
+            "gameFileSize": "276567",
+            "gameFileSHA256": "8aa2e52132a0d83bd1fb2a58604334b75700bf51a47b31136212c607cecaf515"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "88a010e5bfe7fc234bba388c2aea8a625f878696499fe01d4a09580c1608d296"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity",
+            "gameFileSize": "16596",
+            "gameFileSHA256": "349c3c87b99d67c912daab798392404603970eacb87dee2f3cea712cbd7a21b8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "cb2b204bb732892865dad17182bc04fda73e852e87048b93260b756b180ecd3c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity",
+            "gameFileSize": "62898",
+            "gameFileSHA256": "97a7bfb9ec437c5931e288ba8a635f6838ad12b51ca04447fe8c40481fc7c6a2"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "7f9eb969414a9226429679f1f4b4c2e41c56b2bdf51cbc3211f01e63a42c132b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity",
+            "gameFileSize": "6347",
+            "gameFileSHA256": "237c42e7460f753dad428fc6a52a175c48e85a462acf7eec70e654840c57a46f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "6ec97cdb774a36d3663eba9fd8306887c71942e97b6951e0028ea186c74ddfc2"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity",
+            "gameFileSize": "12075",
+            "gameFileSHA256": "7a79a85bc46a80489a62838e70a80f7bf90086836f2a5c828b0b7ec47530693a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "b2c49accf2716dba928ef8062a3f0fd66f2434729e9aeb0df9ee002453a6e5dd"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity",
+            "gameFileSize": "14217",
+            "gameFileSHA256": "82254ebd51a288a14af09d5b15cdbf7150cdabc1938daead04a1cd4419bd0808"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta",
+            "gameFileSize": "174",
+            "gameFileSHA256": "f66bdca94b213dc1ef51e8e4230911d174806ff0f799f7b6907d4eb497b92925"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity",
+            "gameFileSize": "70666",
+            "gameFileSHA256": "ab9a5656b3914249c0e806b2ca7f8349f38eb2b51e5910b182148e0effc4376d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "e0f69ee2625921b175262a754d22ded5afb9f1f384ce433ae2e8764ccd8ba26e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity",
+            "gameFileSize": "16835",
+            "gameFileSHA256": "2d79de75b0f4ffe3e0475337d140c52c24451ba2d7d23b2142daff275e781f4e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta",
+            "gameFileSize": "175",
+            "gameFileSHA256": "b43956cc3b250d41d077275485117d0c42826fb68cd0db873713bb94b3556d1a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity",
+            "gameFileSize": "97009",
+            "gameFileSHA256": "ee4ae9adad47b9f739e13e939febdb9f7e43b558c2d7227cb17375e410a314e2"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta",
+            "gameFileSize": "155",
+            "gameFileSHA256": "bbc0ec4c691d6a2ef417c3600d6f760ccdf1496fc660e0c8a05afd686970db83"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity",
+            "gameFileSize": "11380",
+            "gameFileSHA256": "fcb878e08ccd7df8361b9cb1a0c86fcf9d72547c3904b1d9247bd6bc9d5243d1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta",
+            "gameFileSize": "292",
+            "gameFileSHA256": "be1da996238cf37f42e1f453e4391bf6690fe87b1d98217ba67da5e363a92a65"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs",
+            "gameFileSize": "4314",
+            "gameFileSHA256": "3c61167c0eab6c7bd295c2ff7c36777c89ffcbc453af8d6580236a6aabc0757d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "4bbf1250e079a2d6debf0e0500d1d405a98b1ae16f8f427913e0c7d8cac17d6e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs",
+            "gameFileSize": "4573",
+            "gameFileSHA256": "99c88ada7f9cda09c0bb6d6deaaabc3b66845550f61d4fb41745005761cff298"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "606008cee33b68171e2c51b240a2c7d181860d2d59a931e96d2e14f7287e2de2"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs",
+            "gameFileSize": "3611",
+            "gameFileSHA256": "e89e3ed0038c306fe7e4dcdaaf9d7931097c32493b34622877e4d53a6eef03a5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta",
+            "gameFileSize": "247",
+            "gameFileSHA256": "2d82acd844e4ffab19c49e87abf777d424adc91a360c3c5023b204fcc13a105b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs",
+            "gameFileSize": "3696",
+            "gameFileSHA256": "31ac73ac6a23a98c7e8ea480aa09c5abdb8ac8598a3de68b6933df7ea16c3d66"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta",
+            "gameFileSize": "247",
+            "gameFileSHA256": "d4d9c6e26626ccb8c351c5e88a587edc2d9a283ef79cb6db7ce1fad3c9413296"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs",
+            "gameFileSize": "3094",
+            "gameFileSHA256": "840c386820d5037e1f4cfc85a34b7348581566704076ca304be72ab672c70787"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta",
+            "gameFileSize": "247",
+            "gameFileSHA256": "bdd72314da401c0c71d8d604bc211f08671baa1a44b698714ccfbf423866c328"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs",
+            "gameFileSize": "10637",
+            "gameFileSHA256": "76575f9a696f7400c5a3c78e7b5b5ee540de2dacf691dcd322f63be00c4520fa"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "e528828d96bd45a20345eb32ef518209cdbace4254cf167c6112ca80aef5d1a5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs",
+            "gameFileSize": "1332",
+            "gameFileSHA256": "14479ee971d6b8eceae82e9eb9c03389df611a825051df6e2b10e53a60ae1c9f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "887534736fcf5fc4b985c58f566de299a3418794364807723e69343d7040f99f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs",
+            "gameFileSize": "507",
+            "gameFileSHA256": "e163035bc080b98e90ef130abc969e8cefa32a630783650e68e724316b359332"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta",
+            "gameFileSize": "243",
+            "gameFileSHA256": "711d845331b6174ee6e65f377ebafbef78b909b92c91996092b9b2cdd4fea3f7"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs",
+            "gameFileSize": "1160",
+            "gameFileSHA256": "5e1a229404d5a5ed0fbe6b7481f0337f2fc1fe8352a1cb70477de2c0af81fffa"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "c1c631e87b7681d2b7a3d3f6bc1436beb1c87d6833ee591014629afabb613df9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs",
+            "gameFileSize": "2133",
+            "gameFileSHA256": "ff61da5bf98d6b797aa6c99d0ed59928153271dc71f63b2deb3bdb7715e4d5a9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "8b0af4b06fd87aebfae368d0d0ac83548b608061f0b7dd54b295e8815236634f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs",
+            "gameFileSize": "1353",
+            "gameFileSHA256": "ede5388968001b879abe9bfeac8d87ed0905e301a4a789a301726257685513a3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "312f06f737ae9b769c49e396f09208e5bb86abe76bfaac57b4b00e1992526fd8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs",
+            "gameFileSize": "1826",
+            "gameFileSHA256": "4d13b6a4af5b35897cf73e0164d4069e2c1f5328ecb53b0d6713b22546b0624f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "e668710db8277599b55e81d89ff6e0cb89df28ad5eddf964433616c697d2b639"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs",
+            "gameFileSize": "6837",
+            "gameFileSHA256": "c9e6d50712b15ece9a7874026c2085b26c90f52d85de10202e8b36e3fea4f7e9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "0d8881cdffe930f83812cc151a7b697af2179601437d383ba18b1b589059f81a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs",
+            "gameFileSize": "726",
+            "gameFileSHA256": "f6c9a606954beebc086b45d6997f89de40a29fcc35584fbbd2818d4a7a7e3c67"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "1aa61975478366b8bad6f15e6be1397de331d9ce73c46b9c92f1df8e8e8b2bea"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs",
+            "gameFileSize": "2122",
+            "gameFileSHA256": "3a61c0f7256d8fbeb739f25e5c1627dcf6b6517158eef38c5fa450c688201ffa"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "ff5ab2aecc8a43ac24394f2896a0a7cc4bc941f08db598854390c8336f68c168"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs",
+            "gameFileSize": "5150",
+            "gameFileSHA256": "d9fbdf75fd2e62d887150ce6f29fefb2d32b199588649c835567fd3aa97bb82b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "437a6e5f2ec3123f9ef49b833249073c5f70c815c776c19f09cabbb5342927a6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs",
+            "gameFileSize": "3521",
+            "gameFileSHA256": "db98aef0ef8c1ad063aee3fd316c6d7137a783371003c0339ba9ffec25157a17"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "4d1c09234431dc78c787aef9af51eae9de5f96134e6e644e415127781df38cd2"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs",
+            "gameFileSize": "2664",
+            "gameFileSHA256": "b59f9d1c7fddffaeec2b2523c338cc32d4c40c18fa8dd7f540b6e3b22a3f36e5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "2d1d12e5b8072cffdd92fd947dda5cb231e30b4760c532718859cc9677a3e41d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs",
+            "gameFileSize": "9303",
+            "gameFileSHA256": "07e23509a862c25cf32cc3a84afeabcd8d79f6662f680405654aa1d905d9fbe8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "aa8b937e39741acd2244a98c30814a26d242064c982b2f33f3178ea16abbc62b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs",
+            "gameFileSize": "30811",
+            "gameFileSHA256": "cd8f39066cf3c6835e1b61503b06ef7a3fd409437baa2e5569ec27a02ea408c4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs.meta",
+            "gameFileSize": "264",
+            "gameFileSHA256": "55562ed20412699c10b1b1b38b63029f2bc155bec4c00d959f376edf6090a347"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs",
+            "gameFileSize": "6825",
+            "gameFileSHA256": "e9c85049e2db34237663df431af7685b6c527554aadae03d01e5b999702a7948"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "35772983e31f857570a4e6c7f2924df75c4d0db6a27ca01ff216467e9b1db9d9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs",
+            "gameFileSize": "24604",
+            "gameFileSHA256": "6e93b8e1eb4ff438c24e35ab0bf80b2ee4ab65a2d8c10f93f387e64f415d425b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs.meta",
+            "gameFileSize": "360",
+            "gameFileSHA256": "23cb3b2b5c3bdc479e9c9f1bee5989ce7cab6852cc954c6bce2972fda74fb601"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs",
+            "gameFileSize": "4881",
+            "gameFileSHA256": "d2f2ab0090772da36b7759783de6fbf225dad51fc40d4d7b06f82e6a8be27d2f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "f856ca9c55317f4a730bb9b55ee5abc6b94e92a090b64e96af4e253356ba497b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs",
+            "gameFileSize": "3329",
+            "gameFileSHA256": "03933725d53aa925c5f55f7c831a88ceb28b78bc38aff5736bc06e2716e6d7ca"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "ee275331813e05b969701bcea6c903913d41eefebf14cf927e65c8ab84888722"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs",
+            "gameFileSize": "2820",
+            "gameFileSHA256": "6d2e0e4fd557486ff1652ff2a6404312dc49ada59632563fc98c9b95d85fff7a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs.meta",
+            "gameFileSize": "221",
+            "gameFileSHA256": "d280daf4594ac90c2baabf55c160afcd2368e710d95672300cdf8eb310b38897"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs",
+            "gameFileSize": "3782",
+            "gameFileSHA256": "96d0c388d9f8742b63a924114947d3d6737f2dc558b527cd4e9bf88ad36f1631"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta",
+            "gameFileSize": "264",
+            "gameFileSHA256": "4c73ebbc4fc69615eeaf18f4f8c6a50c867e5f9066acec3d18f5d98ab1642d8d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs",
+            "gameFileSize": "9123",
+            "gameFileSHA256": "b31384607c78e1b71c8773b0162f9e8c4c299d7f7baaab04ccd773039c79861a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs.meta",
+            "gameFileSize": "247",
+            "gameFileSHA256": "2c6b4bd0ca3e9a029e349da4446d3b2569a085f540446577310f8bceee26fbb3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs",
+            "gameFileSize": "2780",
+            "gameFileSHA256": "f4b25e169766fad6769f11526dbaaffb259731c2a2e5279bbee8ed4152384036"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs.meta",
+            "gameFileSize": "247",
+            "gameFileSHA256": "171e9687c4c1b16141a84617096706927bcd34afd43d82cf7e920df2112b417e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs",
+            "gameFileSize": "3127",
+            "gameFileSHA256": "b7ab939290ed6e64ef779d91925fa44edea787a5fd73bfd784466f22f53ceb6c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "07afcec3cf8aac169b7d9547b88545216556e981e705fe53e5e5f6e2c950835d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs",
+            "gameFileSize": "7113",
+            "gameFileSHA256": "4e934def3bee0a2806572824cb7007efcb05f9b1082a24400e35d4de209d8506"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "a0de5a2634598a37509b0c75500807440fd3dbe6dd2fbb28d2654ec50324db66"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs",
+            "gameFileSize": "6846",
+            "gameFileSHA256": "3e9b5d4c3ccaa63663098964a33bd3640e4e67e61e4dda00dc90dc047d67f339"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "c0bac9fc94b5b3acd3369b7e866f3e60dd8b8025fd47b8db79df62e05be3525f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs",
+            "gameFileSize": "8724",
+            "gameFileSHA256": "6162673abf5de78d60b478dc1572b92b6108162390f4b37886afa52f66a7a613"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "a9951fa0f99be560a68a5bfe6f512d164d7d423f292c2ade28dc3aa2f7f04d65"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs",
+            "gameFileSize": "8548",
+            "gameFileSHA256": "921eff16d54ea819c0741acd9cb3d0f53d79d42d593aab7cad6f0aa93f20a16c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "9a710ddb5f3a80b7c6252376ba1d387f2ec74afcf9ef04fc3f75b678584f6544"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs",
+            "gameFileSize": "5999",
+            "gameFileSHA256": "71b9808aca4e1c6ba124152a48c4eea1e10fc0ff7a66de5ef2ab26561123cbfe"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs.meta",
+            "gameFileSize": "262",
+            "gameFileSHA256": "9311e7b22a36417d3cf38ab5f55d0e12fd8241016a5c39f04bf39f0350df0553"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png",
+            "gameFileSize": "178491",
+            "gameFileSHA256": "f0ed23200980b5dfc4115a3ea99d26706d06a00f4946e4ccc01b83950456201b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png.meta",
+            "gameFileSize": "10304",
+            "gameFileSHA256": "65c002b99d50ce15e91707e99991c794ed3c15cb95387646de7ece7f0df305f9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd",
+            "gameFileSize": "482546",
+            "gameFileSHA256": "a8da6e26a9dd8789a9d55d80636e4955ddd2c8ce5388cb0344eef52029eca106"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd.meta",
+            "gameFileSize": "3433",
+            "gameFileSHA256": "e440592fb43d3a59fa232bc51160ea52e6df1aa2783c175c7423ee3c33792bcb"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg",
+            "gameFileSize": "28175",
+            "gameFileSHA256": "7d21ed4aeaed1db486303adb34f3687f2ec9bdac1167cbb1d4cb9bc0974cfdb8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg.meta",
+            "gameFileSize": "1121",
+            "gameFileSHA256": "4ebd4856b876f11c04ea0b5b6d5e81f6bfd76cb19bd68f5509f582551e89fba5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg",
+            "gameFileSize": "71537",
+            "gameFileSHA256": "d9c5332cbdaeacae60a48e31ebdd565cb93545605193ba7d5aa4e2f5ac92d6d5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg.meta",
+            "gameFileSize": "1121",
+            "gameFileSHA256": "974258c4e79b6e687dc66590acdb5652f0a1b9b92d1f08c4b80ef738a1584e8a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg",
+            "gameFileSize": "155648",
+            "gameFileSHA256": "17cac82ba5118e5f057461eb8f5c85126c57a7186a41f62c95cca6203ff4d245"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta",
+            "gameFileSize": "1121",
+            "gameFileSHA256": "279150a2babfcddffb3c556cfabbab618562e3d8a4ecd59dbeadba09a4455755"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg",
+            "gameFileSize": "150089",
+            "gameFileSHA256": "dcdb715f73dda61219860185eccc1a6bd81fbeacc171d7bf2a5f766f8eea8e0c"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg.meta",
+            "gameFileSize": "1121",
+            "gameFileSHA256": "7748d768ccad1f22073edb454ba433027b89938e2073d4f165b3e3d5fcd69295"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg",
+            "gameFileSize": "11688",
+            "gameFileSHA256": "51735b2a99f9d6baae14b01cf2e01fa1aeef69c9a95553b73bdea5a8957a19a7"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg.meta",
+            "gameFileSize": "1207",
+            "gameFileSHA256": "bcf5c8ce570d1978154396557a1769d41877876624f81117c510de129bfa42ae"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg",
+            "gameFileSize": "11341",
+            "gameFileSHA256": "b2099f0fd08520b82fefb8e4e37dfdaefd283cf4aedb074d11dcfdd9841f24f1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg.meta",
+            "gameFileSize": "1121",
+            "gameFileSHA256": "8dcacdd853bcd5cdebe1dc91793a35f6f690f670ba4cd026819e9946aabe44f6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg",
+            "gameFileSize": "11336",
+            "gameFileSHA256": "d9d7ab2c8d016b29574b13607e0579983d13b3377a6a3a330b945c5f07adc059"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg.meta",
+            "gameFileSize": "1121",
+            "gameFileSHA256": "4748489313248ad50705f19ed24705f025b6710e41ed7e73865e878be01a27f3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd",
+            "gameFileSize": "38488",
+            "gameFileSHA256": "62c198307c982df2e7fecc53cfb5d932ffad8f1056f046448619c6f314dac249"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd.meta",
+            "gameFileSize": "1184",
+            "gameFileSHA256": "a7c638c42960b504201dc4db0d71b204b425a63d20b6ae22d941eaab796de07e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg",
+            "gameFileSize": "95326",
+            "gameFileSHA256": "79d17105e2a4ba39880b0092d6792d985c380789047fd0459e1af099ccf8521d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg.meta",
+            "gameFileSize": "3063",
+            "gameFileSHA256": "f85c2c8dd12ffd36fc13afedc4de7c1673bd0fc1a8245d3977439a4268d7f6cc"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg",
+            "gameFileSize": "126976",
+            "gameFileSHA256": "432295d5fef530c8927b80cfb1b33ee58d1b6060237df82a0cc460e784074460"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta",
+            "gameFileSize": "3063",
+            "gameFileSHA256": "66f5dd9834ac51c3d48078f9d81efac7003913955ef2fe7eb85ddad448f77007"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg",
+            "gameFileSize": "273488",
+            "gameFileSHA256": "ab6536daf74188dfc075d65f5d85aca9efeaead7f03b905514e53076d854f365"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg.meta",
+            "gameFileSize": "3064",
+            "gameFileSHA256": "596e19b10e94d98699ccf3f49fd1efa8a36dbaa87e94d5dce20f73579e046dde"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png",
+            "gameFileSize": "26169",
+            "gameFileSHA256": "a1cee03c0ad0d42b302819e32c87651c946583a1f9c755b421a6a438f593bb67"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png.meta",
+            "gameFileSize": "1261",
+            "gameFileSHA256": "fd52dc7264a3f97437b771338a376bb1d5fd6f545ec670eadc3ffb54bb12629b"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png",
+            "gameFileSize": "49290",
+            "gameFileSHA256": "6085a191a9981df78a26f7218bc051fd113430674b545f0889dd757e87df0941"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png.meta",
+            "gameFileSize": "1260",
+            "gameFileSHA256": "25ec536ff14a39d265e6ce047e25acb1d89c8d57ddf037f7966b748ebd020b17"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd",
+            "gameFileSize": "32696",
+            "gameFileSHA256": "9146c89277cda5a0a4c5b00e7c9ff089b3486af113c09a5a3bfaefd103ed7e01"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd.meta",
+            "gameFileSize": "1258",
+            "gameFileSHA256": "975746b6c0cb2150cbb7ec6a28e119b4efdb5977773c02d316310c149a74dc71"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd",
+            "gameFileSize": "33064",
+            "gameFileSHA256": "9dd31b2053ce4f178d014a87e70ad1d829229aaf486aa9607c7ba8370b1f631e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd.meta",
+            "gameFileSize": "1228",
+            "gameFileSHA256": "b7f3d0734fdde1454999af1b43dae45c5f8f0550d1cd144b41eafe1bd299c888"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd",
+            "gameFileSize": "33155",
+            "gameFileSHA256": "6cdbce6a3732ce075694a0b18630847b9df8c96ce73cbbbe7154a5dfb2660f23"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd.meta",
+            "gameFileSize": "1228",
+            "gameFileSHA256": "44ccd8f153d82ed5600ff784ab3b5dbe795c2f0541ed86df9bc635e33dac3787"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd",
+            "gameFileSize": "34433",
+            "gameFileSHA256": "e014157602c4e690f54c01f221b15d2c428f8131dce86ce0fc21ba5c6ad9495d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd.meta",
+            "gameFileSize": "1257",
+            "gameFileSHA256": "95530e983aae4ca42d6fe3a82053b8db3a10fd9b7f8ab672bd43aaa7ffe4c6da"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat",
+            "gameFileSize": "2975",
+            "gameFileSHA256": "b6b65c34e4907dd3006c2217fc8a4cef81b6da24df0a3de8e2288199eb6c5a9d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "ef2eee63b288d47823da38109e3e8c879f4717a82dc662ac2d5e2460dacde698"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+            "gameFileSize": "9266",
+            "gameFileSHA256": "6f33cdcd6d203e175a012087a4209442c2b6811baeebce6c875bb8c8d7c64e51"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "d6d86504040cf6e736767fda9bdef494afb06d5304384243e2dd703eba3a4a3d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+            "gameFileSize": "2889",
+            "gameFileSHA256": "25874340976d40e9f9e8abf731b7f32e5a478541dead9288140bd60c7a3287d9"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "a8cf0ee9888a163e892368b4660b9c62a7375e7f8afdb8ee02e5c91ca1cdb355"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+            "gameFileSize": "2256862",
+            "gameFileSHA256": "c3ff50e3133d989180b187748ffc67903f1fede099a5b85b4fcbd8cb6e8be958"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "37233890984555987cb585551bc885069f2849a9b0d1c2191af073b9376aa10f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+            "gameFileSize": "13441",
+            "gameFileSHA256": "155fff99f467baa93dd2d0886df466bd242cd5e3c8c60c9d43e9cdad269f7f54"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "097525b164260b0fb34b4e0c73b3187c693f4dfe2991f475b5b416dbf07dfbbc"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset",
+            "gameFileSize": "4953",
+            "gameFileSHA256": "01222ac025a1f5b90f3f129eee7bfac7fb05223a1edd84aecf2171ec34b10708"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta",
+            "gameFileSize": "181",
+            "gameFileSHA256": "b832663ca09ec7af8c8e816fd91a718b2af6c21ab4f126fa818871ad53bce763"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset",
+            "gameFileSize": "588",
+            "gameFileSHA256": "364e5cc1a41094e73de2861ffeccbd4521fef8eee2d9dbe775be1034221074b6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "9b6e648d9aa42f50cfbd91e58b2de9bcf18e40c990a64444e9a948f73e3e0495"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset",
+            "gameFileSize": "609",
+            "gameFileSHA256": "2847d59896844029ba9868e3cceb3cbe965de6810ffdcff22807ca34657dc9c0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "b95947283933041fe7d501db70375348419ba6ee62b0e87dfd11abef3bd503b0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset",
+            "gameFileSize": "585",
+            "gameFileSHA256": "cd36765d6c276a209a823cd3f3fb599e93e1b9736ccd7d7028291383ab569b29"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "6866ae9d579e30bbdc647555dc5c801c6cf44261ced2ca1b1afe6f5b664e7e14"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset",
+            "gameFileSize": "544",
+            "gameFileSHA256": "f7153f57eee3cfaae12db51576c348577e29b06583d63c922dff1b27bd155929"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "1e5388612701e1ca072d19053b1c1ca37eaf9c4c0c75893133b3c650ef24d15e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat",
+            "gameFileSize": "2906",
+            "gameFileSHA256": "e6becca5841f5f4351d14c00af76e26eaa324d7fff79950117563bf8d5555819"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "b3460c01082846061280c21c58a0aba4b160e1fc65b74d063f3a010993c9aed0"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat",
+            "gameFileSize": "2888",
+            "gameFileSHA256": "aca1f8d8a23ac43aa0094e8f73ebc64a0db82ec32cf2c86d1988163f40d1c426"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "748c8fd66e3bdf5f1b743efdb232a73335f7dd148b77c10eed36d2db008e0661"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat",
+            "gameFileSize": "3069",
+            "gameFileSHA256": "26e757964c9390a78510bbd64739bb25ab1cb03911cad2c454424e22d4787fd6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat.meta",
+            "gameFileSize": "188",
+            "gameFileSHA256": "7a59e3c0f595d129e49af3e8c9864a3cf848b25bc0b5e724e9ba5616d3edf763"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset",
+            "gameFileSize": "7913",
+            "gameFileSHA256": "09fa6f467638a9d3ab050590af8d527339be2765ba79839bc19a4eea260f3445"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "221f85b87f5db42c5f2ca78e04f4924b855e4ea6818d8c988817604bedc84849"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat",
+            "gameFileSize": "3081",
+            "gameFileSHA256": "b506b76550fa402deef1f5d09ef7a70ae811e103797c884a2304aae26546326f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat.meta",
+            "gameFileSize": "181",
+            "gameFileSHA256": "2f863d1056e6985d2ac4127c251cc6b6f929e0689d61c7883c61e2c11ca54619"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat",
+            "gameFileSize": "3053",
+            "gameFileSHA256": "b0d5971eafef1fdf53246fcd6cbf767493d0d251f495ce5fe4dcb83d34774ea1"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat.meta",
+            "gameFileSize": "181",
+            "gameFileSHA256": "f6359a71400c7f496bd0a40b71d6c2576ae429da72ac6d3fa90e7c0d527667c3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat",
+            "gameFileSize": "3213",
+            "gameFileSHA256": "e75316746e0a0946a4b4db839c05bb25dfd130d31b955d7613116e1831b163f5"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat.meta",
+            "gameFileSize": "181",
+            "gameFileSHA256": "dbc98e8a91931e45fc228486e81731e8b2c5659c7b17e079c35b194070d6c955"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat",
+            "gameFileSize": "3044",
+            "gameFileSHA256": "2ad848e2b2b4eb4e6590cdcd5551a10df04a78451c9f3e587f66d58dc7deac01"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "bedf7e755eaf9cd4940bf3a5f07fd6415416a27103f39bbb46080a31767fd03e"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset",
+            "gameFileSize": "7894",
+            "gameFileSHA256": "54c8deeea76eff0b0d9e8316fbc5686ba4d3beb13188534f25eb8c6e33d130e8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset.meta",
+            "gameFileSize": "138",
+            "gameFileSHA256": "bd8964e831bbffb4d4eb30ef635b48e97d0857cacc13ce4be5256e4946062e0f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset",
+            "gameFileSize": "8026",
+            "gameFileSHA256": "2824d75d916a18fbc711c8dff8bb773c3095336b87e8b47f64349d2b3cecb53a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "e6001e47ce8d65f8b6a5acac9820e14cfba25f13bc8975afcb8cc236ba8c1b3d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat",
+            "gameFileSize": "3082",
+            "gameFileSHA256": "b12d06bb62031709f4ba3cf125875ab5f580ff17099e505b355762effbebaaf4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "1e318205e72d49db86abd04f19c6e073ca7253fa985c171aa28a47d085045ec7"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat",
+            "gameFileSize": "1690",
+            "gameFileSHA256": "9bf0ef632fa609a465899a85d6791ae7a6e882f4330043a3f424bda15dff4225"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "435ce4d8555d61c966222cf068580605d1815e2e4712d98bf3d9bc065bbe4d99"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat",
+            "gameFileSize": "3188",
+            "gameFileSHA256": "a25eb8647b1adf129a7a2b534bc0ea3d9136e8b4fa39da91591cce9e4f35b12f"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "7bb03cbee9569994620a771befbaa3c9e2f653e38fb7eb75ace36fdd8258fdd6"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset",
+            "gameFileSize": "7951",
+            "gameFileSHA256": "252046531b8e2d76a2f6959257eb9c9f771742eca30db183432167f1110e4eee"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "8ab3bc38faba5853ade337c3e98d4d26dee8381f8917dbeaf0b21df03f7f25f4"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat",
+            "gameFileSize": "2909",
+            "gameFileSHA256": "1028421fdd364fbefeda8e39b1484ebf3eddf83f09aca6cf3c6baca88c54e26a"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "09899ea2d7c4ee0e8f474e370ac31a23b58865a4b4a33a3a9367d54225212a00"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat",
+            "gameFileSize": "3011",
+            "gameFileSHA256": "1ddb959948c15e062fa161014ef050ac85ae7881c9b30093d753d5e4f5687ae3"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "8591ccd16d4712346da600a43b0706d25c1ba0a0e907d272cd099b11a6407639"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset",
+            "gameFileSize": "8319",
+            "gameFileSHA256": "92d04dbd5b0b802c0d20205e455f971acf6afed71f9c0c578ebb93e0ef484085"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "f065dd4978f91dac25867c3d42fdfb037a1f77159872fb86edc148859fd09c58"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset",
+            "gameFileSize": "7862",
+            "gameFileSHA256": "bebe187d44d93cd9e164ecc01b89dd34ecc8f0591e2c5640c18abc0be7a87dc8"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "0861757bcec3b9780088789c7e1575c19a4a47cff36778b729dce5a1b613828d"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset",
+            "gameFileSize": "9803",
+            "gameFileSHA256": "a328bb918959deef7877a91e1f7c5fc7418665bde6da3bbac86167408c9eb276"
+        },
+        {
+            "gameFileName": "/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta",
+            "gameFileSize": "179",
+            "gameFileSHA256": "a828a1894c10bee3cbc339108d3a3f36479097dd70b1f902dd7730f39fa09eea"
+        }
+    ]
+}
